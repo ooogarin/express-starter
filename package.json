@@ -1,0 +1,19 @@
+{
+  "name": "express-starter",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ooogarin/express-starter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ooogarin/express-starter/issues"
+  },
+  "homepage": "https://github.com/ooogarin/express-starter#readme",
+  "description": ""
+}
